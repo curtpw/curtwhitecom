@@ -1,0 +1,2 @@
+# curtwhitecom
+personal website
